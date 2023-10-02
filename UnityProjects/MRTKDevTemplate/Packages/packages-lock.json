@@ -330,6 +330,12 @@
         "com.unity.xr.management": "4.2.1"
       }
     },
+    "org.mixedrealitytoolkit.examples": {
+      "version": "file:../../../org.mixedrealitytoolkit.examples",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "org.mixedrealitytoolkit.extendedassets": {
       "version": "file:../../../org.mixedrealitytoolkit.extendedassets",
       "depth": 0,

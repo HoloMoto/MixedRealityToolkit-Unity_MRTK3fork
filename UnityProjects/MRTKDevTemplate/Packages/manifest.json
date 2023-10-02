@@ -12,6 +12,7 @@
     "org.mixedrealitytoolkit.core": "file:../../../org.mixedrealitytoolkit.core",
     "org.mixedrealitytoolkit.data": "file:../../../org.mixedrealitytoolkit.data",
     "org.mixedrealitytoolkit.diagnostics": "file:../../../org.mixedrealitytoolkit.diagnostics",
+    "org.mixedrealitytoolkit.examples" : "file:../../../org.mixedrealitytoolkit.examples",
     "org.mixedrealitytoolkit.extendedassets": "file:../../../org.mixedrealitytoolkit.extendedassets",
     "org.mixedrealitytoolkit.input": "file:../../../org.mixedrealitytoolkit.input",
     "org.mixedrealitytoolkit.spatialmanipulation": "file:../../../org.mixedrealitytoolkit.spatialmanipulation",

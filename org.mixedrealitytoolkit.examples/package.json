@@ -1,0 +1,20 @@
+{
+  "name": "org.mixedrealitytoolkit.examples",
+  "version": "3.0.1-development",
+  "description": "A limited collection of common interfaces and utilities that most MRTK packages share. Most implementations of these interfaces are contained in other packages in the MRTK ecosystem.",
+  "displayName": "MRTK Examples",
+  "msftFeatureCategory": "MRTK3",
+  "author": "Microsoft",
+  "license": "BSD 3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity/issues"
+  },
+  "unity": "2021.3",
+  "dependencies": {
+
+  }
+}
