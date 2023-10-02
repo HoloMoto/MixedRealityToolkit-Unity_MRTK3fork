@@ -13,6 +13,63 @@
   "bugs": {
     "url": "https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity/issues"
   },
+  "samples": [
+    {
+      "displayName": "Audio",
+      "description": "",
+      "path": "Audio~"
+    },
+    {
+      "displayName": "Clipping",
+      "description": "",
+      "path": "Clipping~"
+    },
+    {
+      "displayName": "EmptyScene",
+      "description": "",
+      "path": "EmptyScene~"
+    },
+    {
+      "displayName": "Experimental",
+      "description": "",
+      "path": "Experimental~"
+    },
+    {
+      "displayName": "EyeTracking",
+      "description": "",
+      "path": "EyeTracking~"
+    },
+    {
+      "displayName": "HandTracking",
+      "description": "",
+      "path": "HandTracking~"
+    },
+    {
+      "displayName": "Input",
+      "description": "",
+      "path": "Input~"
+    },
+    {
+      "displayName": "Solvers",
+      "description": "",
+      "path": "Solvers~"
+    },
+    {
+      "displayName": "SpatialAwareness",
+      "description": "",
+      "path": "SpatialAwareness~"
+    },
+    {
+      "displayName": "Utilities",
+      "description": "",
+      "path": "Utilities~"
+    },
+    {
+      "displayName": "UX",
+      "description": "",
+      "path": "UX~"
+    }
+  ],
   "unity": "2021.3",
   "dependencies": {
 
